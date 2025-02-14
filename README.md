@@ -23,6 +23,6 @@
 
 
 
-![LIsta de usuarios](src\assets\mobile.jpg)
+![LIsta de usuarios](./src/assets/mobile.jpg)
 
-![LIsta de usuarios](src\assets\pc.jpg)
+![LIsta de usuarios](./src/assets/pc.jpg)
