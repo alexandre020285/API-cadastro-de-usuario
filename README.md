@@ -3,7 +3,7 @@
 ### ( Parte 2 - FrontEnd )
  
 ### ⭕ Descrição 📝
-    Essa segunda parte do projeto se consiste na interface da manipulaçao dos dados, o que é mostrado para o úsuario, seja cadastrando listando ou deletando usuários
+   Essa segunda parte do projeto se consiste na interface da manipulaçao dos dados, o que é mostrado para o úsuario, seja cadastrando listando ou deletando usuários
 
 ## ⭕ Como usar 🚩
     Ao iniciar já vem mostrando os usuários ja criados,
